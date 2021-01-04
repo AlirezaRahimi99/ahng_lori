@@ -1,3 +1,1 @@
-<!-- tikabzar.com --->
-<video width="(330)" height="(250)" controls="controls"><source src="https://s17.picofile.com/d/8420117134/29bc0e4d-90ce-4618-bf8a-be5ad6b801db/clipe_bartar_13991003_003512464.mp4"type="video/mp4" /><این فرمت ویدیو قابل پخش نیست</video><h1><a href="http://tikabzar.com/"></a></h1></div>
-<!-- tikabzar.com --->
+[{"نام خواننده":"ابوالفضل","نام آهنگ":"....","کد آهنگ":"\u003c!-- tikabzar.com ---\u003e\n\u003cvideo width\u003d\"(330)\" height\u003d\"(250)\" controls\u003d\"controls\"\u003e\u003csource src\u003d\"https://s17.picofile.com/d/8420117134/29bc0e4d-90ce-4618-bf8a-be5ad6b801db/clipe_bartar_13991003_003512464.mp4\"type\u003d\"video/mp4\" /\u003e\u003cاین فرمت ویدیو قابل پخش نیست\u003c/video\u003e\u003ch1\u003e\u003ca href\u003d\"http://tikabzar.com/\"\u003e\u003c/a\u003e\u003c/h1\u003e\u003c/div\u003e\n\u003c!-- tikabzar.com ---\u003e"}]
